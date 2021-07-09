@@ -31,6 +31,7 @@ public class ItemMain {
 		i1.printInfo();
 		i2.printInfo();
 		i3.printInfo();
+		System.out.println("¼öÁ¤1Â÷");
 		
 		
 	}
