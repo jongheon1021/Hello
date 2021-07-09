@@ -32,7 +32,7 @@ public class ItemMain {
 		i2.printInfo();
 		i3.printInfo();
 		System.out.println("수정1차");
-		System.out.println("수정2차");
+		System.out.println("수정2");
 		
 		
 	}
